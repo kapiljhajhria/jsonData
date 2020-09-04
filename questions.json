@@ -1,0 +1,33 @@
+{'questions':[
+        {
+            'text': "Did you exercise today?",
+            'options': ["Yes", "No"],
+            'correct_choice': 0
+        },
+        {
+            'text': "Did you sleep well last night?",
+            'options': ["Yes", "No"],
+            'correct_choice': 0
+        },
+        {
+            'text': "Did you drink alcohol?",
+            'options': ["Yes", "No"],
+            'correct_choice': 1
+        },
+        {
+            'text': 'Did you eat well?',
+            'options': ["Yes", "No"],
+            'correct_choice': 0
+        },
+        {
+            'text': 'Were you productive?',
+            'options': ["Yes", "No"],
+            'correct_choice': 0
+        },
+        {
+            'text': 'Did you spend time with friends?',
+            'options': ["Yes", "No"],
+            'correct_choice': 0
+        },
+    ]
+}
